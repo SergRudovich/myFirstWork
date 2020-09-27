@@ -1,6 +1,6 @@
 # myFirstWork
 Only for me. First steps on learning JS
 
-Examle to git
+Example to git
 
 Change on github
